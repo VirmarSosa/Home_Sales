@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F07%2Fspark-sql-for-relational-databases%2F&psig=AOvVaw3ts7_qwQNUBBraITcM27d9&ust=1686108283368000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLins_zYrf8CFQAAAAAdAAAAABAO
+![785951fa708f9f4f466a744e527e6e6548b23 (1)](https://github.com/VirmarSosa/Home_Sales/assets/118692087/7aedae76-024c-4377-8fcb-ed17948701e6)
 
 # Home Sales with SparkSQL
 
