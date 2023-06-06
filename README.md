@@ -1,4 +1,5 @@
-![785951fa708f9f4f466a744e527e6e6548b23 (1)](https://github.com/VirmarSosa/Home_Sales/assets/118692087/7aedae76-024c-4377-8fcb-ed17948701e6)
+![785951fa708f9f4f466a744e527e6e6548b23 (1) (1)](https://github.com/VirmarSosa/Home_Sales/assets/118692087/84fd9974-a639-41e9-8e85-b167c419eb60)
+
 
 # Home Sales with SparkSQL
 
