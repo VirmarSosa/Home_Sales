@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodex%2Fefficient-data-processing-with-pyspark-and-sparksql-3a354b680887&psig=AOvVaw3ts7_qwQNUBBraITcM27d9&ust=1686108283368000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLins_zYrf8CFQAAAAAdAAAAABAJ
+https://miro.medium.com/v2/resize:fit:1080/1*x1mLNqdKqTZE-jyRiYL90A.png
 
 # Home Sales with SparkSQL
 
