@@ -10,4 +10,4 @@ Through utilizing PySpark and Spark SQL on Google Colab, this project serves to 
 
   - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet?
 
-  -What is the "view" rating for homes costing more than or equal to $350,000?
+  - What is the "view" rating for homes costing more than or equal to $350,000?
